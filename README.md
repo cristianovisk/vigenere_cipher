@@ -13,3 +13,6 @@ This code encrypts texts based on a key, using the calculation of the Vigenere c
     -text - Text to cipher
     -e - Mode Cipher
     -d - Mode Decipher
+   
+Created by Cristianovisk
+https://www.linkedin.com/in/cristiano-santos-6054a768/
