@@ -10,6 +10,7 @@ if (found == True):
     from pycipher import Vigenere as v
 if (found == False):
     print ("Library pycipher no found. Please install with 'pip install pycipher'")
+    exit()
 
 args=sys.argv[::]
 argtotal=int(len(sys.argv[::]))
